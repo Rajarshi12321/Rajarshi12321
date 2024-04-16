@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajarshi Roy</h1>
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*WEAD6MgmIrFovo6PMTPlFg.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*dRpCFDfCC1WUAdE6SB74zA.gif">
 
 - 🌱 I’m currently learning **Gen AI tools, Pytorch, OpenCV, NLTK**
 
